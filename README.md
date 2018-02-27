@@ -1,6 +1,6 @@
 # HeyJobs React Assesment Task
 
-Thank you for taking the time to complete this test task! The purpose of the task is to get an idea of your development style: the way you structure code, testing strategy etc.
+Thank you for taking the time to complete this test task! The purpose of the task is to get an idea of your development style: the way you structure code, testing strategy, etc.
 
 ## Requirements
 
