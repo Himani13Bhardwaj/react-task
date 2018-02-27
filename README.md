@@ -23,7 +23,7 @@ Thank you for taking the time to complete this test task! The purpose of the tas
 * We encourage using following libraries and tools: 
   * [Redux](https://github.com/reactjs/redux)
   * [React Router](https://github.com/ReactTraining/react-router)
-  * [Styled Components](https://github.com/styled-components/styled-components),
+  * [Styled Components](https://github.com/styled-components/styled-components)
   * [Material-UI](https://github.com/mui-org/material-ui)
   * [Create React App](https://github.com/facebook/create-react-app), [Jest](https://github.com/facebook/jest).
 
