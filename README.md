@@ -1,4 +1,4 @@
-# HeyJobs React Assesment Task
+# HeyJobs React Assessment Task
 
 Thank you for taking the time to complete this test task! The purpose of the task is to get an idea of your development style: the way you structure code, testing strategy, etc.
 
@@ -15,7 +15,7 @@ Thank you for taking the time to complete this test task! The purpose of the tas
   {
     "id": 1,
     "title": "Frontend Developer",
-    "description": "Comfortable with mordern JS stack, experience with React.",
+    "description": "Comfortable with modern JS stack, experience with React.",
     "employment_type": "full_time"
   }
 ]
@@ -28,6 +28,8 @@ Thank you for taking the time to complete this test task! The purpose of the tas
   * [Create React App](https://github.com/facebook/create-react-app), [Jest](https://github.com/facebook/jest).
 
 ## Note
-Don't fork this repository. Create you own repository and send us a link to it. You may describe some of the assumptions you had in the README file of your repository.
+Don't fork this repository. Create your own repository and send us a link to it. You may describe some of the assumptions you had in the README file of your repository.
 
 **Have fun!** 
+
+
